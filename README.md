@@ -39,3 +39,17 @@
    - `work_name` (varchar)
    - `price` (float)
    - `duration` (float)
+     
+---
+## Используемые технологии
+- PHP 8.2
+- MySQL
+- PDO
+- HTML, CSS (Bootstrap)
+
+---
+
+## Запуск
+1. Обновить параметры подключения к базе данных в config.php, если необходимо.
+2. Запустить setup.php в браузере
+3. Запустить index.php в браузере
